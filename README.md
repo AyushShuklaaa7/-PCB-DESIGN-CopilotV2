@@ -21,7 +21,7 @@ The goal of this project is to reduce the amount of manual datasheet review requ
 
 ![Home](MainP.png)
 
-### Generated Block Diagram
+### Generated Block Diagram(Example PCB:USB 3.1 Gen 1 to Gigabit Ethernet Interface)
 
 ![Block Diagram](BlockD.png)
 
