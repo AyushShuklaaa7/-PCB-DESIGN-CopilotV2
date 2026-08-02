@@ -18,19 +18,19 @@ The goal of this project is to reduce the amount of manual datasheet review requ
 
 ### Home Page
 
-![Home](Images/home.png)
+![Home](MainP.png)
 
 ### Generated Block Diagram
 
-![Block Diagram](Images/block_diagram.png)
+![Block Diagram](BlockD.png)
 
 ### Generated BOM
 
-![BOM](Images/bom.png)
+![BOM](BOM.png)
 
-### Design Audit
+### PIN Connections
 
-![Audit](Images/audit.png)
+![Audit](PIN_C.png)
 
 ---
 
