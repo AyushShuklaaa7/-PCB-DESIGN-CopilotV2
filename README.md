@@ -3,6 +3,7 @@
 PCB Copilot is an AI-powered hardware design assistant built using Streamlit and Google's Gemini API. It helps hardware engineers review system architectures before schematic design by analyzing multiple component datasheets together.
 
 Instead of manually searching through hundreds of datasheet pages, users can upload PDF datasheets along with a project description. PCB Copilot then generates a consolidated hardware overview, identifies missing support components, recommends PCB design practices, and provides datasheet-backed design recommendations.
+Link: https://isb5apurhj7humxr6uwrtr.streamlit.app/
 
 ---
 
