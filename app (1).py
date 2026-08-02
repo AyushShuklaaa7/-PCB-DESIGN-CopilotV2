@@ -123,7 +123,7 @@ def run_review(file_hashes, file_bytes_list, api_key, user_prompt_text):
     contents_payload.append(full_prompt)
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         contents=contents_payload,
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
